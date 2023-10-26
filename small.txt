@@ -1,0 +1,3 @@
+git@github.com:aio-libs/create-aio-app.git
+git@github.com:ansible/ansible.git
+git@github.com:neovim/neovim.git

@@ -1,0 +1,4 @@
+git@github.com:zulip/zulip.git
+git@github.com:godotengine/godot.git
+git@github.com:django/django.git
+git@gitlab.freedesktop.org:monado/monado.git
